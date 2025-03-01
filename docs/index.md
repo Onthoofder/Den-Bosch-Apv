@@ -15,7 +15,7 @@ Den bosch heeft verschillende discord servers die zijn goed gekeurd door het sta
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Den bosch RolePlay| Main discord server van Den bosch | [Invite](https://discord.gg/3ZhNQASk8s) |
-|Den bosch Support| Support discord server van Den bosch | [Invite](https://discord.gg/b8dxajXxGs) |
-|Den bosch Onderwereld| Onderwereld discord server van Den bosch | [Invite](https://discord.gg/CaC2dhVutD) |
-|Den bosch Hulpdiensten| Hulpdiensten discord server van Den bosch | [Invite](https://discord.gg/HwChxnWThj) |
+|Den bosch RolePlay| Main discord server van Den bosch | [Invite](https://discord.gg/5ZsnkmGuu7) |
+|Den bosch Support| Support discord server van Den bosch | [Invite]() |
+|Den bosch Onderwereld| Onderwereld discord server van Den bosch | [Invite]() |
+|Den bosch Hulpdiensten| Hulpdiensten discord server van Den bosch | [Invite]() |
